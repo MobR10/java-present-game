@@ -2,7 +2,7 @@
 This game has been created following the tutorials of RyiSnow from the Youtube channel: https://www.youtube.com/@RyiSnow\
 It is an old game I designed from scratch with the help of Mr. RyiSnow. Created my own pixel art designs for the tiles and custom sounds, with the exception of the birds sound I found online and the background music, which is from Sword Art Online.\
 The main character's design is also made by me, but inspired by Asuna from SAO too.\
-The game as intended as a birthday gift for my girlfriend at the time.\
+The game was intended as a birthday gift for my girlfriend at the time.\
 Development started somewhere at the beginning of March 2022 and finished it on the 18th of April 2022. Uploaded the code on GitHub on 26.04.2025.\
 
 CONTROLS:\
